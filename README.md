@@ -14,7 +14,9 @@ The system integrates various sensors and smart automation systems to ensure eff
 - **ESP32 and Arduino**: These microcontrollers serve as the brains of the system, handling data processing and communication with sensors and actuators.
 - **Soil Moisture Sensors**: These sensors measure the moisture level in the soil, allowing for precise irrigation based on actual needs rather than fixed schedules.
 - **Weather Sensors**: Collect data on temperature, humidity, and rainfall, enabling the system to adjust irrigation schedules based on weather forecasts.
+- ![Screenshot 2024-07-30 200752](https://github.com/user-attachments/assets/5fdef00b-56db-484a-886e-28f536edcd54)
 - **Water Flow Meters**: Monitor the amount of water being used, providing insights into water consumption and helping to identify leaks or inefficiencies.
+- 
 - **Mobile Application**: Users can monitor and control the irrigation system remotely, receiving alerts and notifications about system status and water usage.
 
 ### Data Collection and Analysis
